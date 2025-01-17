@@ -25,6 +25,7 @@ const layout = ({ children }: { children: React.ReactNode }) => {
             alt="files"
             width={342}
             height={342}
+            quality={90}
             className="transition-all hover:rotate-2 hover:scale-105"
           />
         </div>
